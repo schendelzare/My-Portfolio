@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { IoMdArrowDropdownCircle } from "react-icons/Io";
-import { IoMdArrowDropdown } from "react-icons/Io";
+import { IoMdArrowDropdownCircle } from "react-icons/io";
+import { IoMdArrowDropdown } from "react-icons/io";
 import { Link } from "react-scroll";
 import webdev from "../assets/webdev.png";
 
